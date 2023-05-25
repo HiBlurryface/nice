@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/nice/static/css/main.c928d8d7.css",
+    "main.js": "/nice/static/js/main.a277aa81.js",
+    "static/js/787.8e6e5c8e.chunk.js": "/nice/static/js/787.8e6e5c8e.chunk.js",
+    "static/media/gradient-blur.png": "/nice/static/media/gradient-blur.e3c9d5ec86f4d12b090b.png",
+    "static/media/whatsapp-icon.svg": "/nice/static/media/whatsapp-icon.e8f59e97440856160d10dce475cdacbb.svg",
+    "static/media/Poppins-Light.ttf": "/nice/static/media/Poppins-Light.25b96349cf564e8ba0dc.ttf",
+    "static/media/Poppins-Regular.ttf": "/nice/static/media/Poppins-Regular.4211496d0e075ffe7c2f.ttf",
+    "static/media/Poppins-Medium.ttf": "/nice/static/media/Poppins-Medium.c5eb70982e90502d0d01.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/nice/static/media/Poppins-SemiBold.090bd619384bb8d4c289.ttf",
+    "static/media/Poppins-Bold.ttf": "/nice/static/media/Poppins-Bold.300a4da54f1e6258b6f7.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/nice/static/media/Poppins-ExtraBold.c2cc929b28dbf8a30cfd.ttf",
+    "static/media/Poppins-Black.ttf": "/nice/static/media/Poppins-Black.c78fe16aec75b2fc38d0.ttf",
+    "static/media/quality-bg.png": "/nice/static/media/quality-bg.ef8af48afac73be29f59.png",
+    "static/media/man-intro.png": "/nice/static/media/man-intro.799a8049dfa595bd64b1.png",
+    "static/media/man-quality.png": "/nice/static/media/man-quality.6831fcf6c2966b415c2b.png",
+    "static/media/ethereum-coin.png": "/nice/static/media/ethereum-coin.0f06f9b31d4992509942.png",
+    "static/media/target.png": "/nice/static/media/target.518352896d55267fa4e5.png",
+    "static/media/credit-card.png": "/nice/static/media/credit-card.ee244023da168ead1c51.png",
+    "static/media/chat.png": "/nice/static/media/chat.7b247f6ef3bc44736785.png",
+    "static/media/logo.svg": "/nice/static/media/logo.adfb838a408e84804767209445de7fdc.svg",
+    "static/media/instagram.svg": "/nice/static/media/instagram.f83eb9fdf968d9e8d97f2289ae18f3b3.svg",
+    "index.html": "/nice/index.html",
+    "static/media/facebook-f.svg": "/nice/static/media/facebook-f.d3fef47f2b7c14bcca32850bcb4c5c2a.svg",
+    "main.c928d8d7.css.map": "/nice/static/css/main.c928d8d7.css.map",
+    "main.a277aa81.js.map": "/nice/static/js/main.a277aa81.js.map",
+    "787.8e6e5c8e.chunk.js.map": "/nice/static/js/787.8e6e5c8e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c928d8d7.css",
+    "static/js/main.a277aa81.js"
+  ]
+}
