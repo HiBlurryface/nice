@@ -14,21 +14,21 @@ function Footer() {
                     <nav className={styles.menu}>
                         <ul className={styles.menu__list}>
                             <li className={styles.menu__item}>
-                                <a href="" className={styles.menu__link}>o que fazemos</a>
+                                <a href="#" className={styles.menu__link}>o que fazemos</a>
                             </li>
                             <li className={styles.menu__item}>
-                                <a href="" className={styles.menu__link}>como te ajudamos</a>
+                                <a href="#" className={styles.menu__link}>como te ajudamos</a>
                             </li>
                             <li className={styles.menu__item}>
-                                <a href="" className={styles.menu__link}>fale conosco</a>
+                                <a href="#" className={styles.menu__link}>fale conosco</a>
                             </li>
                         </ul>
                     </nav>
                     <div className={styles.social}>
-                        <a href="" className={styles.social__link}>
+                        <a href="#" className={styles.social__link}>
                             <img src={instagram} alt="instagram" className={styles.social__icon} />
                         </a>
-                        <a href="" className={styles.social__link}>
+                        <a href="#" className={styles.social__link}>
                             <img src={facebook} alt="facebook" className={styles.social__icon} />
                         </a>
                     </div>

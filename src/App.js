@@ -1,11 +1,16 @@
-import styles from 'assets/styles/App.module.scss'
-import 'assets/styles/fonts.scss';
-import 'assets/styles/reset.scss';
+// components
 import MainButton from 'components/UI/mainButton/MainButton';
 import TransparentButton from 'components/UI/transparentButton/TransparentButton';
 import Header from 'components/ordinary/header/Header';
 import MainTitle from 'components/simple/mainTitle/MainTitle';
+import Input from 'components/UI/input/Input';
+import Footer from 'components/ordinary/footer/Footer';
+// styles
+import styles from 'assets/styles/App.module.scss'
+import 'assets/styles/fonts.scss';
+import 'assets/styles/reset.scss';
 
+// images
 import introImg from 'assets/images/man-intro.png'
 import blur from 'assets/images/gradient-blur.png'
 import SectionTitle from 'components/simple/sectionTitle/SectionTitle';
@@ -19,8 +24,6 @@ import qualityImg from 'assets/images/man-quality.png'
 
 import chatIcon from 'assets/images/chat.png'
 import whatsAppIcon from 'assets/images/whatsapp-icon.svg'
-import Input from 'components/UI/input/Input';
-import Footer from 'components/ordinary/footer/Footer';
 
 function App() {
     return <>
@@ -95,7 +98,7 @@ function App() {
                         </div>
                         <div className={styles.quality__img}>
                             <img src={qualityImg} alt="Man with phone" className={styles.quality__pic} />
-                            {/* <img src={blur} alt="blur" className={styles.quality__blur} /> */}
+                            <img src={blur} alt="blur" className={styles.quality__blur} />
                         </div>
                     </div>
                 </div>
@@ -110,9 +113,9 @@ function App() {
                         </div>
                         <div className={styles.contact__content}>
                             <div className={styles.contact__info}>
-                                <p className={styles.contact__text}>Ofereça um meio de comunicação direto. Pode ser um <a href="">contato@email.com.br</a></p>
+                                <p className={styles.contact__text}>Ofereça um meio de comunicação direto. Pode ser um <a href="mailto:contato@email.com.br">contato@email.com.br</a></p>
                                 <p className={styles.contact__text}>Ou crie um formulário ao lado que entrem em contato <span>o mais rápido possível!</span></p>
-                                <a href="" className={styles.contact__phone}>
+                                <a href="#" className={styles.contact__phone}>
                                     <img src={whatsAppIcon} alt="What'sApp" className={styles.contact__phone_icon} />
                                     Hey! Estamos no whatsapp!
                                 </a>
