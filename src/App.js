@@ -31,7 +31,7 @@ function App() {
                     <div className={styles.intro__text}>
                         <MainTitle>Um slogan chamativo aqui.</MainTitle>
                         <h2 className={styles.intro__subtitle}>
-                            Um texto sobre o seu produto ou serviço. Explique <a href="" className={styles.intro__link}>porque ele é valioso</a> e
+                            Um texto sobre o seu produto ou serviço. Explique <span>porque ele é valioso</span> e
                             direcione o usuário ao próximo objetivo.
                         </h2>
                         <div className={styles.intro__buttons}>
@@ -90,7 +90,7 @@ function App() {
                         <div className={styles.quality__info}>
                             <p className={styles.quality__tag}>#contecomagente</p>
                             <h2 className={styles.quality__title}>Simples, rápido e do seu jeito.</h2>
-                            <p className={styles.quality__text}>Mostre os valores da sua marca e como ela pode fazer parte da vida do usuário que está lendo. Gerar identificação é a chave para <a href="" className={styles.quality__link}>conquistar seu cliente.</a></p>
+                            <p className={styles.quality__text}>Mostre os valores da sua marca e como ela pode fazer parte da vida do usuário que está lendo. Gerar identificação é a chave para <span>conquistar seu cliente.</span></p>
                             <MainButton type="button">Eu quero!</MainButton>
                         </div>
                         <div className={styles.quality__img}>
