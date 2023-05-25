@@ -1,7 +1,7 @@
 import styles from './MainButton.module.scss'
 
-function MainButton({children}) {
-    return <button className={styles.button}>{children}</button>
+function MainButton({type,children}) {
+    return <button type={type} className={styles.button}>{children}</button>
 }
 
 export default MainButton
